@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Exam()
+comment1.params=choice
+comment1.target=void\ changeStatus(int)
+comment2.params=
+comment2.target=java.lang.String\ getStatus()
+numComments=3

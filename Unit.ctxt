@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=unitCode\ unitName
+comment0.target=Unit(java.lang.String,\ java.lang.String)
+comment1.params=unitCode
+comment1.target=void\ setUnitCode(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCode()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=text
+comment5.target=boolean\ isADigitString(java.lang.String)
+numComments=6

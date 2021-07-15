@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ExamGUI()
+comment1.params=a
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ printReport()
+comment3.params=text
+comment3.target=boolean\ isADigitString(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
